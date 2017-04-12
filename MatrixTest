@@ -1,4 +1,3 @@
-import matrix
 import unittest
 class matrixTests(unittest.TestCase):
 
