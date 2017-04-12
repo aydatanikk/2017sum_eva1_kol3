@@ -15,6 +15,6 @@ def __str__test(self):
        super(ParametrizedTestCase, self).__str__(__str__)
        self.param = param
 
-def __iter__test(self)
+def __iter__test(self):
       super(ParametrizedTestCase, self).__iter__(__iter__)
       self.param = param
